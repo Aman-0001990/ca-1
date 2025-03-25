@@ -1,0 +1,19 @@
+.Container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: gray;
+  border: 5px solid black;
+
+
+}
+
+.Card-container{
+  display: flex;
+  padding: 15px;
+
+  /* border: 2px solid black; */
+background: rgb(238, 104, 104);
+color: aqua;
+}
+
